@@ -1,6 +1,7 @@
 import React from "react";
 
-export default function App() {
+
+export default function Header() {
     return (
         <header className="header">
             <img src="./images/troll-face.png" alt="troll face" className="header--image"/>
